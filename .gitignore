@@ -27,3 +27,20 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ project files
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Base de datos ObjectDB
+db/*.odb
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log o temporales
+*.log
+*.tmp
